@@ -38,7 +38,7 @@ We tested four different models on the Titanic dataset:
 After training and evaluating the models, the best performing model was chosen based on its accuracy on the test set.
 
 ## Results:
-- The best model was `Random Forest` with an accuracy of 0.82 on the test set.
+- The best model was `Decision Tree` with an accuracy of 0.82 on the test set.
 - A detailed classification report and confusion matrix are provided in the output.
 
 ## How to Run:
